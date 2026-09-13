@@ -1,8 +1,6 @@
 # CYBR441-Projects Prompt
 CYBR441 Class Projects Prompt to each project folder
 ***
-# Project-[n]
-
 ## Author
 Haiyun Chen:
 `chanh@lopers.unk.edu`

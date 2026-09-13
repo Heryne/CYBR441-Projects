@@ -1,4 +1,4 @@
-# CYBR441-Projects Prompt
+# CYBR441-Projects
 CYBR441 Class Projects Prompt to each project folder
 ***
 ## Author
